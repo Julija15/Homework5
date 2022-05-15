@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dedae5d1-451c-46f3-8423-e91b2caa1814" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5.java" afterDir="false" />
+    <list default="true" id="dedae5d1-451c-46f3-8423-e91b2caa1814" name="Changes" comment="123456">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/Task0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework5.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -48,17 +51,73 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Homework5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework5" />
+  <component name="RunManager" selected="Application.homework5.Task1">
+    <configuration name="Task0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.Task0" />
       <module name="Homework5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.Task4" />
+      <module name="Homework5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.Task5" />
+      <module name="Homework5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework5.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.Task1" />
+      <module name="Homework5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework5.Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.Task3" />
+      <module name="Homework5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework5" />
+        <item itemvalue="Application.homework5.Task1" />
+        <item itemvalue="Application.Task0" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.homework5.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -70,8 +129,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652629842673</updated>
-      <workItem from="1652629844105" duration="11938000" />
+      <workItem from="1652629844105" duration="30325000" />
     </task>
+    <task id="LOCAL-00001" summary="123456">
+      <created>1652642424384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652642424384</updated>
+    </task>
+    <task id="LOCAL-00002" summary="123456">
+      <created>1652646563370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652646563370</updated>
+    </task>
+    <task id="LOCAL-00003" summary="123456">
+      <created>1652646566451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652646566451</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +168,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123456" />
+    <option name="LAST_COMMIT_MESSAGE" value="123456" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
