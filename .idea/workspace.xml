@@ -51,7 +51,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.homework5.Task1">
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="Task0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework5.Task0" />
       <module name="Homework5" />
@@ -61,6 +61,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task1" />
+      <module name="Homework5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,13 +98,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework5.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework5.Task1" />
-      <module name="Homework5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="homework5.Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework5.Task3" />
       <module name="Homework5" />
@@ -113,7 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homework5.Task1" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task0" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4" />
